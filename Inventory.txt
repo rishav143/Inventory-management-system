@@ -1,0 +1,4 @@
+1, oero, 10, 0
+2, bread, 50, 9
+3, oneplus nord, 20000, 10
+4, asus, 30000, 2
